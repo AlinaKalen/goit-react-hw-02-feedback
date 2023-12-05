@@ -1,0 +1,9 @@
+.StatCont {
+display: flex;
+text-align: center;
+flex-direction: column;
+}
+
+b {
+    color: rgb(199, 65, 148);
+}
